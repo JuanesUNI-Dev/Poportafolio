@@ -1,4 +1,4 @@
-# 🧠 Portafolio — Juan Mora
+# 🧠 Portafolio — Juanes Aponte
 
 > 💼 Portafolio personal desarrollado con **Next.js 14**, **TailwindCSS** y diseño **dark mode**.  
 > Presenta mi perfil, proyectos, educación y contacto, todo en una sola página interactiva y optimizada.
