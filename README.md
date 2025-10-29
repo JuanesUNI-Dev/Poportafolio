@@ -13,7 +13,7 @@
 ## 📸 Vista Previa
 | Inicio | Proyectos | Contacto |
 |--------|------------|-----------|
-| ![Hero Section](https://raw.githubusercontent.com/user/preview1.png) | ![Proyectos](https://raw.githubusercontent.com/user/preview2.png) | ![Contacto](https://raw.githubusercontent.com/user/preview3.png) |
+| ![Hero Section](https://raw.githubusercontent.com/JuanesUNI-Dev/Poportafolio/main/public/previews/preview2.png) | ![Proyectos](https://raw.githubusercontent.com/JuanesUNI-Dev/Poportafolio/main/public/previews/preview4.png) | ![Contacto](https://raw.githubusercontent.com/JuanesUNI-Dev/Poportafolio/main/public/previews/preview1.png) |
 
 ---
 
