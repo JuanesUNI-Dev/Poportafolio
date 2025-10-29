@@ -29,7 +29,7 @@
 ---
 
 ## 🧩 Estructura del proyecto
-
+```bash
 poportafolio/
 ├── public/                        # Imágenes y archivos estáticos
 │   ├── profile1.png
@@ -59,7 +59,7 @@ poportafolio/
 ├── postcss.config.mjs
 ├── next.config.mjs
 └── README.md
-
+```
 
 ---
 
