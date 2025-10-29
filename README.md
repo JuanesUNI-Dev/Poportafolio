@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🧠 Portafolio — Juan Mora
 
-## Getting Started
+> 💼 Portafolio personal desarrollado con **Next.js 14**, **TailwindCSS** y diseño **dark mode**.  
+> Presenta mi perfil, proyectos, educación y contacto, todo en una sola página interactiva y optimizada.
 
-First, run the development server:
+---
+
+## 🚀 Demo
+🔗 [Ver sitio en Vercel](https://tuusuario.vercel.app)
+
+---
+
+## 📸 Vista Previa
+| Inicio | Proyectos | Contacto |
+|--------|------------|-----------|
+| ![Hero Section](https://raw.githubusercontent.com/user/preview1.png) | ![Proyectos](https://raw.githubusercontent.com/user/preview2.png) | ![Contacto](https://raw.githubusercontent.com/user/preview3.png) |
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- ⚛️ **Next.js 14** — Framework React moderno con App Router  
+- 🎨 **TailwindCSS 4** — Estilos rápidos y personalizables  
+- 💡 **React Hooks** — Manejo de estado y efectos (`useState`, `useEffect`)  
+- 🧩 **Componentes Modulares** — Diseño organizado y escalable  
+- 🌑 **Dark Mode** por defecto  
+- 📄 **Despliegue** en [Vercel](https://vercel.com)
+
+---
+
+## 🧩 Estructura del proyecto
+
+poportafolio/
+├── public/ # Imágenes y archivos estáticos (favicon, PDF, fotos)
+│ ├── profile1.png
+│ ├── portal1.png
+│ └── CV_JuanMora.pdf
+├── src/
+│ └── app/
+│ ├── layout.js # Estructura general
+│ ├── page.js # Página principal
+│ ├── globals.css # Estilos globales (Tailwind)
+│ └── components/
+│ ├── Hero.jsx
+│ ├── Navbar.jsx
+│ ├── Projects.jsx
+│ ├── About.jsx
+│ ├── Contact.jsx
+│ └── Education.jsx
+└── package.json
+
+---
+
+🧑‍💻 Autor
+
+Juan Esteban Mora
+📍 Desarrollador Web | Estudiante de Tecnología en Desarrollo de Software
+🌐 LinkedIn
+
+💼 GitHub
+
+📧 juanestebanfelipe@gmail.com
+
+⭐ Agradecimientos
+
+Este proyecto fue construido con curiosidad, paciencia y speemax⚡.
+Si te gusta, no olvides dejar una ⭐ en el repo ❤️
 
 ```bash
+# Clonar el repositorio
+git clone https://github.com/TU_USUARIO/poportafolio.git
+
+# Entrar a la carpeta
+cd poportafolio
+
+# Instalar dependencias
+npm install i
+
+# Ejecutar en modo desarrollo
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Abre en tu navegador: http://localhost:3000
