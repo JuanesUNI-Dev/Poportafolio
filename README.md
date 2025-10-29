@@ -67,9 +67,8 @@ poportafolio/
 
 Juan Esteban Mora
 📍 Desarrollador Web | Estudiante de Tecnología en Desarrollo de Software
-🌐 LinkedIn
 
-💼 GitHub
+💼 GitHub - JuanesUNI-Dev
 
 📧 juanestebanfelipe@gmail.com
 
