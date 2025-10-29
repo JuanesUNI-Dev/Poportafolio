@@ -31,23 +31,35 @@
 ## 🧩 Estructura del proyecto
 
 poportafolio/
-├── public/ # Imágenes y archivos estáticos (favicon, PDF, fotos)
-│ ├── profile1.png
-│ ├── portal1.png
-│ └── CV_JuanMora.pdf
+├── public/                        # Imágenes y archivos estáticos
+│   ├── profile1.png
+│   ├── portal1.png
+│   ├── CV_JuanMora.pdf
+│   └── previews/
+│       ├── preview1.png
+│       ├── preview2.png
+│       └── preview3.png
+│
 ├── src/
-│ └── app/
-│ ├── layout.js # Estructura general
-│ ├── page.js # Página principal
-│ ├── globals.css # Estilos globales (Tailwind)
-│ └── components/
-│ ├── Hero.jsx
-│ ├── Navbar.jsx
-│ ├── Projects.jsx
-│ ├── About.jsx
-│ ├── Contact.jsx
-│ └── Education.jsx
-└── package.json
+│   └── app/
+│       ├── layout.js              # Estructura general
+│       ├── page.js                # Página principal
+│       ├── globals.css            # Estilos globales (Tailwind)
+│       └── components/
+│           ├── Hero.jsx
+│           ├── Navbar.jsx
+│           ├── Projects.jsx
+│           ├── VerMasCard.jsx
+│           ├── About.jsx
+│           ├── Education.jsx
+│           └── Contact.jsx
+│
+├── package.json
+├── tailwind.config.js
+├── postcss.config.mjs
+├── next.config.mjs
+└── README.md
+
 
 ---
 
